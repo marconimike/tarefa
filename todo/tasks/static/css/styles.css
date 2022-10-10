@@ -121,3 +121,13 @@ footer p {
     top: 50%;
     position: relative;
 }
+
+/* Messages */
+
+ul.massages{
+    padding: 0;
+}
+
+ul.messages li{
+    list-style: none;
+}
