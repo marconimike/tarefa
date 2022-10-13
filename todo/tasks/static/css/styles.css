@@ -50,8 +50,7 @@
 
 /* Search*/
 
- .fas.fa-search 
- {
+.fas.fa-search {
     position: absolute;
     top: 12px;
     right: 26px; 
@@ -150,4 +149,9 @@ ul.messages li {
 
 .auto-card {
     margin-bottom: 30px;
+}
+
+.change-form-p {
+    margin-top: 30px;
+    text-align: center;
 }
